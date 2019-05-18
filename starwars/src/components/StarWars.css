@@ -1,0 +1,19 @@
+.character-card {
+	background: rgba(255, 255, 255, 0.5);
+	max-width: 300px;
+	min-width: 300px;
+	min-height: 200px;
+	margin: 10px 10px;
+	text-align: left;
+	padding-left: 10px;
+	border: 1px solid black;
+}
+
+.inner-div {
+	opacity: 1;
+}
+
+ul li {
+	text-decoration: none;
+	list-style: square;
+}
